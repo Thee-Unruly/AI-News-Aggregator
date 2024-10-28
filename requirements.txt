@@ -1,0 +1,12 @@
+flask                  # For creating the backend API
+requests               # For making HTTP requests
+beautifulsoup4        # For web scraping
+scrapy                 # For advanced web scraping
+transformers           # For NLP model implementations
+pydub                  # For audio processing
+gTTS                   # Google Text-to-Speech library
+pandas                 # For data manipulation
+numpy                  # For numerical operations
+scikit-learn           # For machine learning algorithms
+tensorflow             # If you're using TensorFlow for ML models
+torch                  # If you're using PyTorch for ML models
