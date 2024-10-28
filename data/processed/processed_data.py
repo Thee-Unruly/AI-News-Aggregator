@@ -3,6 +3,7 @@ import os
 import sys
 import requests
 import time
+import re
 
 # Add the root directory to the Python path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
@@ -34,18 +35,32 @@ def process_news_data(raw_data, source):
     # Process each article
     for article in articles:
         if isinstance(article, dict):  # Ensure the article is a dictionary
+            content = article.get('content') or article.get('body')  # Handle different field names
+            if content:
+                truncated_info = extract_truncated_info(content)
+                # Replace truncated info with the actual content for clarity
+                if truncated_info:
+                    content = content.split('…')[0] + truncated_info  # Keep content up to ellipsis and add truncated info
+                else:
+                    content = content.split('…')[0]  # If no truncation info, just keep the content up to ellipsis
+
             processed_data.append({
                 'title': article.get('title'),
                 'description': article.get('description'),
                 'publishedAt': article.get('publishedAt') or article.get('published'),  # Handle different field names
                 'source': article.get('source', {}).get('name', 'Unknown'),  # Adjust as necessary
                 'url': article.get('url'),
-                'content': article.get('content') or article.get('body'),  # Handle different field names
+                'content': content.strip() if content else "",  # Strip whitespace
             })
         else:
             print("Unexpected article format:", article)  # Print unexpected format
 
     return processed_data
+
+def extract_truncated_info(content):
+    """Extract truncated characters information from the content."""
+    match = re.search(r'\[\+(\d+)\s*chars\]', content)
+    return f" [+{match.group(1)} chars]" if match else ""
 
 def save_processed_data(filename, data):
     """Save processed data to a JSON file."""
