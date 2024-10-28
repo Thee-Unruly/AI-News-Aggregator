@@ -1,0 +1,6 @@
+[
+    "https://newsapi.org/v2/top-headlines?apiKey=a004c99087c44b7db67f400ef0affe9d&country=us",
+    "https://api.currentsapi.services/v1/latest-news?apiKey=W8jDgm5GuDkXsiIkctXDODNOB8Fv6XaVf8yGnnPGAEcqiOK6",
+    "https://gnews.io/api/v4/top-headlines?token=a45bce9f6db8e84e9750d6206163f88f&lang=en",
+    "http://rss.cnn.com/rss/money_technology.rss"
+]
