@@ -1,9 +1,14 @@
 import json
 import os
 import sys
+import requests
+import time
 
 # Add the root directory to the Python path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+
+# Import your API keys from the config file
+from config import NEWS_API_KEY, CURRENTS_API_KEY, GNEWS_API_KEY, CNN_RSS_URL
 
 def load_raw_data(filename):
     """Load raw data from a JSON file."""
@@ -51,8 +56,21 @@ def save_processed_data(filename, data):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=4)
 
-if __name__ == "__main__":
-    # Specify the raw data files and their sources
+def fetch_news_from_api(api_function):
+    """Wrapper to fetch news data and handle errors."""
+    try:
+        print(f"Fetching news from {api_function.__name__.replace('_', ' ').title()}...")
+        raw_data = api_function()
+        if raw_data:
+            return raw_data
+        else:
+            print(f"No data returned from {api_function.__name__.replace('_', ' ').title()}.")
+            return {}
+    except Exception as e:
+        print(f"Error fetching news from {api_function.__name__.replace('_', ' ').title()}: {e}")
+        return {}
+
+def main():
     sources = {
         'news_api': 'data/raw/news_api_raw.json',
         'currents': 'data/raw/currents_raw.json',
@@ -60,6 +78,8 @@ if __name__ == "__main__":
         'cnn': 'data/raw/cnn_raw.json'
     }
     
+    # Commenting out the real-time loop for now
+    # while True:  # Run in real-time
     processed_all_data = []
     
     for source, filepath in sources.items():
@@ -71,3 +91,9 @@ if __name__ == "__main__":
     # Save all processed data
     save_processed_data('data/processed/processed_news_data.json', processed_all_data)
     print("All news data processed and stored successfully.")
+
+    # Uncomment to re-enable real-time fetching
+    # time.sleep(600)  # Wait for 10 minutes before fetching data again
+
+if __name__ == "__main__":
+    main()
