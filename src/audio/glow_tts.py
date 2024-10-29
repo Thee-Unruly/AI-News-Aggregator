@@ -4,6 +4,7 @@ import torch
 import time
 import IPython
 import json
+import librosa  # Ensure librosa is imported
 
 # Add the TTS repo to the system path
 sys.path.append('TTS')
@@ -31,7 +32,7 @@ def interpolate_vocoder_input(scale_factor, spec):
 def tts(model, text, CONFIG, use_cuda, ap, use_gl, figures=True):
     t_1 = time.time()
     # Run TTS
-    target_sr = CONFIG.audio['sample_rate']
+    target_sr = CONFIG['audio']['sample_rate']
     waveform, alignment, mel_spec, mel_postnet_spec, stop_tokens, inputs = \
         synthesis(model,
                   text,
@@ -41,12 +42,13 @@ def tts(model, text, CONFIG, use_cuda, ap, use_gl, figures=True):
                   speaker_id,
                   None,
                   False,
-                  CONFIG.enable_eos_bos_chars,
+                  CONFIG['enable_eos_bos_chars'],
                   use_gl)
+    
     # Run vocoder
     mel_postnet_spec = ap._denormalize(mel_postnet_spec.T).T
     if not use_gl:
-        target_sr = VOCODER_CONFIG.audio['sample_rate']
+        target_sr = VOCODER_CONFIG['audio']['sample_rate']
         vocoder_input = ap_vocoder._normalize(mel_postnet_spec.T)
         if scale_factor[1] != 1:
             vocoder_input = interpolate_vocoder_input(scale_factor, vocoder_input)
@@ -86,11 +88,30 @@ VOCODER_CONFIG = "config_vocoder.json"
 TTS_CONFIG = load_config(TTS_CONFIG)
 VOCODER_CONFIG = load_config(VOCODER_CONFIG)
 
+# Set default values for audio parameters if None
+audio_config = TTS_CONFIG['audio']
+if audio_config.get('frame_length_ms') is None:
+    audio_config['frame_length_ms'] = 50  # Set an appropriate value
+if audio_config.get('frame_shift_ms') is None:
+    audio_config['frame_shift_ms'] = 12.5  # Set an appropriate value
+
 # Load the audio processor
-ap = AudioProcessor(**TTS_CONFIG.audio)  
+class CustomAudioProcessor(AudioProcessor):
+    def _build_mel_basis(self):
+        return librosa.filters.mel(
+            sr=self.sample_rate,
+            n_fft=self.fft_size,
+            n_mels=self.num_mels,
+            fmin=self.mel_fmin,
+            fmax=self.mel_fmax
+        )
+
+# Create an instance of the modified audio processor
+ap = CustomAudioProcessor(**audio_config)
+
+from TTS.tts.utils.text.symbols import make_symbols
 
 # LOAD TTS MODEL
-# Multi speaker 
 speakers = []
 speaker_id = None
 
@@ -98,8 +119,8 @@ if 'characters' in TTS_CONFIG.keys():
     symbols, phonemes = make_symbols(**TTS_CONFIG['characters'])
 
 # Load the model
-num_chars = len(phonemes) if TTS_CONFIG.use_phonemes else len(symbols)
-model = setup_model(num_chars, len(speakers), TTS_CONFIG)      
+num_chars = len(phonemes) if TTS_CONFIG['use_phonemes'] else len(symbols)
+model = setup_model(num_chars, len(speakers), TTS_CONFIG)
 
 # Load model state
 model, _ = load_checkpoint(model, TTS_MODEL, use_cuda=use_cuda)
