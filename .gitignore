@@ -1,1 +1,4 @@
-venv/
+# Ignore virtual environment
+/.venv
+/fine-tuned-model
+/results
