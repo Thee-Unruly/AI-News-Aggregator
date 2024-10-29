@@ -2,79 +2,38 @@
     "status": "ok",
     "news": [
         {
-            "id": "d7f5d525-e14e-4740-b8fd-2026bceecad4",
-            "title": "Manchester United suffer early double blow in next manager search",
-            "description": "Frank and Amorim among the early contenders to take over at Old Trafford after Erik ten Hag was sacked",
-            "url": "https://www.standard.co.uk/sport/football/man-utd-manager-search-thomas-frank-ruben-amorim-b1190582.html",
-            "author": "Dom Smith",
-            "image": "https://static.standard.co.uk/2024/10/23/7/38/thomas-frank.jpeg?width=1200&auto=webp&quality=75&trim=324,0,110,0",
+            "id": "a2af0421-307f-49c0-a7e6-33d94f94544d",
+            "title": "Novartis: Strong Financials, But Market Skepticism Persists Amid Pipeline Concerns (NVS)",
+            "description": "Novartis reports strong Q3 earnings but faces investor concerns over revenue adjustment and pipeline uncertainties, leading to a hold recommendation.",
+            "url": "https://seekingalpha.com/article/4730613-novartis-strong-financials-but-market-skepticism-persists-amid-pipeline-concerns?source=feed_all_articles",
+            "author": "Stephen Ayers",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1352026087/image_1352026087.jpg?io=getty-c-w1536",
             "language": "en",
             "category": [
-                "general"
+                "business",
+                "finance"
             ],
-            "published": "2024-10-28 15:02:04 +0000"
+            "published": "2024-10-29 21:05:50 +0000"
         },
         {
-            "id": "b68497f2-4c6c-425f-9801-11d53e3637ff",
-            "title": "Antagonistic CLE peptide pathways shape root meristem tissue patterning",
-            "description": "Nature Plants, Published online: 28 October 2024; doi:10.1038/s41477-024-01838-1The activity of distinct and antagonistic CLE peptide pathways intersects to produce and specify different tissue layers in the Arabidopsis root tip. Their quantitative modulation is required to guide phloem initiation a...",
-            "url": "https://www.nature.com/articles/s41477-024-01838-1",
-            "author": "Christian S. Hardtke",
-            "image": "None",
+            "id": "9c8f3f3b-20d5-477a-b8d3-c044c0981ecf",
+            "title": "Tesla: I Like The Business, Not Sure About The Stock (NASDAQ:TSLA)",
+            "description": "Tesla's valuation is unsustainable, trading at 9x P/S compared to automotive peers' 1.5x, indicating a significant downside risk. Learn more on TSLA stock here.",
+            "url": "https://seekingalpha.com/article/4730612-tesla-i-like-the-business-not-sure-about-the-stock?source=feed_all_articles",
+            "author": "Perseus Perspectives",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1662932717/image_1662932717.jpg?io=getty-c-w1536",
             "language": "en",
             "category": [
-                "academia"
+                "business",
+                "finance"
             ],
-            "published": "2024-10-28 15:01:55 +0000"
+            "published": "2024-10-29 21:03:41 +0000"
         },
         {
-            "id": "a47ef95d-59a0-4f8d-891e-5eae31c71588",
-            "title": "Views sought on reforms to energy infrastructure planning",
-            "description": "The Government says the changes will make the system for considering large energy projects more efficient.",
-            "url": "https://www.standard.co.uk/news/politics/scotland-uk-government-government-scottish-government-england-b1190583.html",
-            "author": "Paul Cargill",
-            "image": "https://static.standard.co.uk/2024/10/28/15/420ceb54ec30d07644644ff89f10eb93Y29udGVudHNlYXJjaGFwaSwxNzMwMjEzOTY4-2.68470538.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
-            "language": "en",
-            "category": [
-                "general"
-            ],
-            "published": "2024-10-28 15:01:50 +0000"
-        },
-        {
-            "id": "bb098912-8496-4757-814f-37a40285aaab",
-            "title": "\u2018Nafta helped expedite loss of jobs from our country\u2019: the US trade agreement still hanging over Democrats\u2019 heads",
-            "description": "The working class saw Clinton\u2019s support of Nafta, which cut most tariffs between US, Mexico and Canada, as \u2018a betrayal\u2019",
-            "url": "https://www.theguardian.com/us-news/2024/oct/28/nafta-us-jobs-harris-democrats-trump",
-            "author": "Steven Greenhouse",
-            "image": "https://i.guim.co.uk/img/media/b95dab14f010ac060d2bb56593254c4bcc5cb9a2/0_45_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=8bad0fd663910bc6ae62b57552de74fb",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 15:00:42 +0000"
-        },
-        {
-            "id": "72d29e35-f35d-498f-b6f0-c4be27dd83b7",
-            "title": "Links 10/28/2024 | naked capitalism",
-            "description": "Corroborating written history with ancient DNA: The case of the Well-man described in an Old Norse saga iScience Does the Fed Still Believe in the NAIRU? J. W. Mason\u2019s Money and Things Life makes mistakes Aeon (alynch)",
-            "url": "https://www.nakedcapitalism.com/2024/10/links-10-28-2024.html",
-            "author": "Conor Gallagher",
-            "image": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/Screenshot-2024-10-27-at-6.59.46\u202fPM-813x1024.png",
-            "language": "en",
-            "category": [
-                "news",
-                " business",
-                " finances",
-                " money",
-                " banking"
-            ],
-            "published": "2024-10-28 15:00:41 +0000"
-        },
-        {
-            "id": "6bde0631-6a2e-4b14-9e26-ed9d8f589161",
-            "title": "BAWAG Group AG (BWAGF) Q3 2024 Earnings Call Transcript",
-            "description": "BAWAG Group AG (OTCPK:BWAGF) Q3 2024 Earnings Call October 28, 2024 5:00 AM ETCompany ParticipantsAnas Abuzaakouk - Chief Executive OfficerEnver Sirucic -...",
-            "url": "https://seekingalpha.com/article/4730112-bawag-group-ag-bwagf-q3-2024-earnings-call-transcript?source=feed_tag_transcripts",
+            "id": "a6d5b198-61be-4aa8-b03f-4b0eba48809b",
+            "title": "Kilroy Realty Corporation (KRC) Q3 2024 Earnings Call Transcript",
+            "description": "Kilroy Realty Corporation (NYSE:KRC) Q3 2024 Results Conference Call October 29, 2024 1:00 PM ETCompany ParticipantsTaylor Friend - Senior Vice President,...",
+            "url": "https://seekingalpha.com/article/4730640-kilroy-realty-corporation-krc-q3-2024-earnings-call-transcript?source=feed_all_articles",
             "author": "SA Transcripts",
             "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
             "language": "en",
@@ -82,319 +41,373 @@
                 "business",
                 "finance"
             ],
-            "published": "2024-10-28 15:00:23 +0000"
+            "published": "2024-10-29 21:03:10 +0000"
         },
         {
-            "id": "d1b6cc42-94f7-4233-ac1b-e2f19b4b8004",
-            "title": "Top architects face court over death after window pane fell from Thames flats",
-            "description": "Mick Ferris died when he was struck by a falling window pane on Albert Embankment",
-            "url": "https://www.standard.co.uk/news/crime/corniche-foster-partners-st-james-mick-ferris-health-safety-window-pane-b1190574.html",
-            "author": "Tristan Kirk",
-            "image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/10/02/19/mickferris0210a.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
+            "id": "fbae9347-b0a5-44b6-ace0-0c44fee59da8",
+            "title": "Enovix Corporation 2024 Q3 - Results - Earnings Call Presentation (NASDAQ:ENVX)",
+            "description": "The following slide deck was published by Enovix Corporation in conjunction with their 2024 Q3 earnings call.",
+            "url": "https://seekingalpha.com/article/4730639-enovix-corporation-2024-q3-results-earnings-call-presentation?source=feed_all_articles",
+            "author": "SA Transcripts",
+            "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
             "language": "en",
             "category": [
-                "general"
-            ],
-            "published": "2024-10-28 15:00:15 +0000"
-        },
-        {
-            "id": "20b99118-e948-494a-9775-a5e0e2caf91d",
-            "title": "Hedgehogs listed as \u2018near threatened\u2019 after suffering rapid population declines",
-            "description": "The International Union for Conservation of Nature said hedgehog numbers are thought to have shrunk in more than half the countries where they live.",
-            "url": "https://www.standard.co.uk/news/environment/british-european-endangered-species-denmark-norway-b1190584.html",
-            "author": "Emily Beament",
-            "image": "https://static.standard.co.uk/2024/10/28/15/ae045a88a31f479d7a7fb7765f105ed6Y29udGVudHNlYXJjaGFwaSwxNzI5OTMzMDkz-2.77802967.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
-            "language": "en",
-            "category": [
-                "general"
-            ],
-            "published": "2024-10-28 15:00:00 +0000"
-        },
-        {
-            "id": "ca625498-a0a9-4500-9ca8-ee1a8eb67364",
-            "title": "The naughty siesta: why workers are secretly napping at home",
-            "description": "A cheeky little sleep during office hours is more popular than ever \u2013 but the days of the furtive snooze may be numbered",
-            "url": "https://www.theguardian.com/lifeandstyle/2024/oct/28/the-naughty-siesta-why-workers-are-secretly-napping-at-home",
-            "author": "",
-            "image": "https://i.guim.co.uk/img/media/a6f1d87668d67da8bcb1ac7a6a06476c9f9c1d5e/0_200_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=500fc3855e689a52f762f28f310fc969",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:58:47 +0000"
-        },
-        {
-            "id": "4df7703c-d50d-4518-a0aa-2118cf441d0c",
-            "title": "Pakistan v England: four takeaways for McCullum\u2019s side after Test series defeat",
-            "description": "Ollie Pope continues to baffle and team\u2019s failure against spin is just one of many weaknesses for England",
-            "url": "https://www.theguardian.com/sport/2024/oct/28/four-takeaways-england-lost-series-pakistan-cricket",
-            "author": "James Wallace",
-            "image": "https://i.guim.co.uk/img/media/774e6f50a2224528c3d55fbc65fdbf9d12e99204/0_106_3023_1814/master/3023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=2f5b509dd7b7b7f59f3ca4b5bf3dbed4",
-            "language": "en",
-            "category": [
-                "sports"
-            ],
-            "published": "2024-10-28 14:58:37 +0000"
-        },
-        {
-            "id": "7e57e0ae-b96d-4336-857a-fd44a041fe36",
-            "title": "Sarwar says Labour will \u2018end austerity\u2019 as he challenges SNP ministers on Budget",
-            "description": "Scottish Labour leader Anas Sarwar spoke out as Chancellor Rachel Reeves prepares to deliver the Budget on Wednesday.",
-            "url": "https://www.standard.co.uk/news/politics/anas-sarwar-rachel-reeves-snp-budget-government-b1190570.html",
-            "author": "Katrine Bussey",
-            "image": "https://static.standard.co.uk/2024/10/28/13/28130214-a4a88b41-0d03-4659-a4e3-d6734149c822.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
-            "language": "en",
-            "category": [
-                "general"
-            ],
-            "published": "2024-10-28 14:57:57 +0000"
-        },
-        {
-            "id": "0b561ef4-79cc-4f14-b6e3-a9e3085075e0",
-            "title": "Lidl expansion forges ahead with 10 shops to open before Christmas",
-            "description": "The German supermarket chain also announced it has agreed to sell 12 new stores as part of a leaseback deal worth \u00a370 million.",
-            "url": "https://www.standard.co.uk/business/business-news/lidl-expansion-forges-ahead-with-10-shops-to-open-before-christmas-b1190527.html",
-            "author": "Anna Wise",
-            "image": "https://static.standard.co.uk/2024/10/28/11/28112147-738fe131-dc02-47a5-b631-183b974de06d.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
-            "language": "en",
-            "category": [
-                "general"
-            ],
-            "published": "2024-10-28 14:55:54 +0000"
-        },
-        {
-            "id": "67a835e6-c892-4b1d-89fe-77fb30d32f13",
-            "title": "The Maccabees to reunite for headline London show in 2025",
-            "description": "The indie rock favourites will reunite for a headline slot at All Points East",
-            "url": "https://www.standard.co.uk/culture/music/the-maccabees-reunion-all-points-east-london-2025-b1190571.html",
-            "author": "Jordan Page",
-            "image": "https://static.standard.co.uk/2024/10/28/13/25/GettyImages-155108165.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
-            "language": "en",
-            "category": [
-                "general"
-            ],
-            "published": "2024-10-28 14:54:57 +0000"
-        },
-        {
-            "id": "6452ac9e-1e78-44c9-8ea4-b02d6e94ca89",
-            "title": "Empty Beds: a mural highlights the abduction of Ukrainian children",
-            "description": "Artist Phil Buehler has constructed a reminder of the almost 20,000 kids taken by Russian forces, on show in Little Ukraine, Manhattan",
-            "url": "https://www.theguardian.com/artanddesign/2024/oct/28/empty-beds-ukraine-art-installation",
-            "author": "David Smith",
-            "image": "https://i.guim.co.uk/img/media/0b7e32ceaa6e174607e530dc333e50755f1fc68b/0_382_4032_2420/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=12ed11b89228d3f738885317f673645c",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:54:33 +0000"
-        },
-        {
-            "id": "a1238c9c-1b71-496c-aeec-f4a5ccaccec5",
-            "title": "Automotive Properties: High Yielder Delivers On Core Thesis (APR.UN:CA)",
-            "description": "Automotive Properties REIT corrected some of its undervaluation and risen to 90% of its tangible book value, or NAV. Read where we stand today with APR.UN:CA.",
-            "url": "https://seekingalpha.com/article/4730097-automotive-properties-high-yielder-delivers-on-core-thesis?source=feed_tag_canada",
-            "author": "Trapping Value",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1158232690/image_1158232690.jpg?io=getty-c-w1536",
-            "language": "en",
-            "category": [
+                "business",
                 "finance"
             ],
-            "published": "2024-10-28 14:53:45 +0000"
+            "published": "2024-10-29 21:02:36 +0000"
         },
         {
-            "id": "33e6cd97-30bd-4e72-af2a-298ddb383533",
-            "title": "How to watch Ballon d\u2019Or 2024 for FREE: TV channel and live stream",
-            "description": "Man City star Rodri and Real Madrid\u2019s Vinicius Junior are in a fierce battle ",
-            "url": "https://www.standard.co.uk/sport/football/how-to-watch-ballon-dor-2024-free-tv-channel-live-stream-ceremony-today-b1190224.html",
-            "author": "Jonathan Gorrie",
-            "image": "https://static.standard.co.uk/2024/09/04/19/06/GettyImages-1765686390.jpg?width=1200&auto=webp&quality=75&trim=133,0,240,0",
+            "id": "c6d16cff-8518-4f70-9788-552e2b9e6ce0",
+            "title": "CBIZ, Inc. 2024 Q3 - Results - Earnings Call Presentation (NYSE:CBZ)",
+            "description": "The following slide deck was published by CBIZ, Inc.",
+            "url": "https://seekingalpha.com/article/4730638-cbiz-inc-2024-q3-results-earnings-call-presentation?source=feed_all_articles",
+            "author": "SA Transcripts",
+            "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "en",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 21:01:49 +0000"
+        },
+        {
+            "id": "622d6540-d650-4dd1-aa45-cb6bffd00cf9",
+            "title": "49ers' Charvarius Ward's 1-Year-Old Daughter Dies",
+            "description": "Charvarius Ward's 1-year-old daughter has tragically died.",
+            "url": "https://www.tmz.com/2024/10/29/charvarius-ward-daughter-dies/",
+            "author": "TMZ Staff",
+            "image": "https://imagez.tmz.com/image/c9/16by9/2024/10/29/c9ec42cb364c40439ed881c7e922ffe0_xl.jpg",
+            "language": "en",
+            "category": [
+                "entertainment"
+            ],
+            "published": "2024-10-29 21:01:47 +0000"
+        },
+        {
+            "id": "ba0e451a-6dd9-40b0-b636-667e09fa8e0a",
+            "title": "Taylor Swift Dance Studio Stabbing Suspect Facing New Charges in UK",
+            "description": "The suspect who's accused of fatally stabbing 3 little girls who came together to dance to Taylor Swift music this summer is facing 2 new criminal charges ... including a terror offense.",
+            "url": "https://www.tmz.com/2024/10/29/taylor-swift-dance-studio-stabbing-suspect-new-charges-terrorism-poison/",
+            "author": "TMZ Staff",
+            "image": "https://imagez.tmz.com/image/5e/16by9/2024/10/29/5e0cf06dca904c5abe1b7a3231653a5f_xl.jpg",
+            "language": "en",
+            "category": [
+                "entertainment"
+            ],
+            "published": "2024-10-29 21:01:47 +0000"
+        },
+        {
+            "id": "4e7560c5-987f-4638-add1-7c18c639c3a6",
+            "title": "Sydney Sweeney Wears Pink Boxing Gear on Movie Set of Christy Martin Biopic",
+            "description": "New look from Sydney Sweeney on the set of the upcoming Christy Martin biopic ... where pink seems to be the theme of this particular scene.",
+            "url": "https://www.tmz.com/2024/10/29/sydney-sweeney-christy-martin-pink-boxing-gear-biopic-set/",
+            "author": "TMZ Staff",
+            "image": "https://imagez.tmz.com/image/9c/16by9/2024/10/29/9c85f92df104477fb4f015f63344e8a6_xl.jpg",
+            "language": "en",
+            "category": [
+                "entertainment"
+            ],
+            "published": "2024-10-29 21:01:47 +0000"
+        },
+        {
+            "id": "6cb6f1c1-7344-4aa8-92a4-ce6574d39bae",
+            "title": "Michael Myers Prankster Scares Arizona Drivers Stuck in Nightmare Traffic, on Video",
+            "description": "One Arizona prankster is putting the trick in \"trick or treat\" ... donning a Michael Myers mask to scare drivers stuck in standstill traffic.",
+            "url": "https://www.tmz.com/2024/10/29/michael-myers-prankster-scares-arizona-drivers-in-traffic-video/",
+            "author": "TMZ Staff",
+            "image": "https://imagez.tmz.com/image/7b/16by9/2024/10/29/7b11279ef0d649bc819ef835305334cc_xl.jpg",
+            "language": "en",
+            "category": [
+                "entertainment"
+            ],
+            "published": "2024-10-29 21:01:47 +0000"
+        },
+        {
+            "id": "c8a4cc56-c3cb-41f9-8de4-bf46595442d1",
+            "title": "Tekashi 6ix9ine Arrested for Violating Supervised Release",
+            "description": "Tekashi 6ix9ine is back in hot water ... he was arrested today for violating the terms of his supervised release.",
+            "url": "https://www.tmz.com/2024/10/29/tekashi-arrested-violating-probation-supervised-release/",
+            "author": "TMZ Staff",
+            "image": "https://imagez.tmz.com/image/ad/16by9/2024/10/29/ad6750230453429f9c0e55f4e8929dfd_xl.jpg",
+            "language": "en",
+            "category": [
+                "entertainment"
+            ],
+            "published": "2024-10-29 21:01:47 +0000"
+        },
+        {
+            "id": "b81de52b-67ce-4424-8804-fb8a44bfd5c0",
+            "title": "CBIZ, Inc. (CBZ) Q3 2024 Earnings Call Transcript",
+            "description": "CBIZ, Inc. (NYSE:CBZ) Q3 2024 Earnings Conference Call October 29, 2024 11:00 AM ETCompany ParticipantsLori Novickis - Director, Corporate RelationsJerome...",
+            "url": "https://seekingalpha.com/article/4730636-cbiz-inc-cbz-q3-2024-earnings-call-transcript?source=feed_all_articles",
+            "author": "SA Transcripts",
+            "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "pt",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 21:01:09 +0000"
+        },
+        {
+            "id": "57e5869c-aee1-48e6-86b4-60402fe4825e",
+            "title": "10x Genomics, Inc. 2024 Q3 - Results - Earnings Call Presentation (NASDAQ:TXG)",
+            "description": "The following slide deck was published by 10x Genomics, Inc.",
+            "url": "https://seekingalpha.com/article/4730635-10x-genomics-inc-2024-q3-results-earnings-call-presentation?source=feed_all_articles",
+            "author": "SA Transcripts",
+            "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "en",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 21:00:12 +0000"
+        },
+        {
+            "id": "8ec8da6a-b708-47eb-80e5-87c1a644108d",
+            "title": "What's at stake with election and control of Congress",
+            "description": "A week from now voters will elect a new president \u2014 and they will decide who controls both the Senate and House of Representatives. The new president will need allies on Capitol Hill....",
+            "url": "https://www.npr.org/2024/10/29/nx-s1-5168000/whats-at-stake-with-election-and-control-of-congress",
+            "author": "Deirdre Walsh",
+            "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+            "language": "en",
+            "category": [
+                "politics",
+                "world"
+            ],
+            "published": "2024-10-29 20:58:59 +0000"
+        },
+        {
+            "id": "1ab80ac0-574b-47cb-a257-9b0b2753ecb5",
+            "title": "AMD shares fall as forecast fails to impress despite strong AI growth",
+            "description": "AMD shares are up about 20% so far in 2024, although rivals such as Nvidia and Broadcom have had much greater gains during the same period, driven by AI chips.",
+            "url": "https://www.cnbc.com/2024/10/29/amd-earnings-report-q3-2024.html",
+            "author": "Kif Leswing",
+            "image": "https://image.cnbcfm.com/api/v1/image/108046125-17285796992024-06-03t042117z_1668725142_rc2d38am5swl_rtrmadp_0_taiwan-computex.jpeg?v=1728579779&w=1920&h=1080",
             "language": "en",
             "category": [
                 "general"
             ],
-            "published": "2024-10-28 14:50:45 +0000"
+            "published": "2024-10-29 20:54:47 +0000"
         },
         {
-            "id": "069047e5-4816-4836-92c5-fb93e7c4e590",
-            "title": "Jury retires in trial of American pilot accused of kidnapping nine-year-old girl",
-            "description": "It is alleged that Robert Prussak approached the girl outside Harrods and later took her to Hyde Park where he sexually assaulted her.",
-            "url": "https://www.standard.co.uk/news/crime/hyde-park-american-isleworth-crown-court-knightsbridge-france-b1190579.html",
-            "author": "Pol Allingham",
-            "image": "https://static.standard.co.uk/2024/10/28/14/487751bf61dcb36b8017e30b00cb0584Y29udGVudHNlYXJjaGFwaSwxNzMwMjEyNjM0-2.17319947.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
+            "id": "7a99eaf7-e9ed-4d26-aacb-9b5de1b8476b",
+            "title": "The Value Case For Archer-Daniels-Midland And Its Changed Relationship With Corn (ADM)",
+            "description": "Archer-Daniels-Midland Company is a leader in global grain processing and trading. Learn why ADM stock is a strong option for long-term investors.",
+            "url": "https://seekingalpha.com/article/4730604-the-value-case-for-adm-and-its-changed-trading-relationship-with-corn?source=feed_all_articles",
+            "author": "Non-Correlating Stock Ideas",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/173022432/image_173022432.jpg?io=getty-c-w1536",
+            "language": "en",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 20:53:42 +0000"
+        },
+        {
+            "id": "e1749e55-59f9-4ecf-b02c-2f0c1a2a4491",
+            "title": "Landstar System, Inc. 2024 Q3 - Results - Earnings Call Presentation (NASDAQ:LSTR)",
+            "description": "The following slide deck was published by Landstar System, Inc.",
+            "url": "https://seekingalpha.com/article/4730633-landstar-system-inc-2024-q3-results-earnings-call-presentation?source=feed_all_articles",
+            "author": "SA Transcripts",
+            "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "en",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 20:53:11 +0000"
+        },
+        {
+            "id": "cb8b3661-a5f1-4932-85a9-b4ada4773629",
+            "title": "NEC Corporation (NIPNF) Q2 2025 Earnings Call Transcript",
+            "description": "NEC Corporation (OTCPK:NIPNF) Q2 2025 Earnings Conference Call October 29, 2024 2:00 AM ETCompany ParticipantsOsamu Fujikawa - Executive Vice President...",
+            "url": "https://seekingalpha.com/article/4730632-nec-corporation-nipnf-q2-2025-earnings-call-transcript?source=feed_tag_japan",
+            "author": "SA Transcripts",
+            "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "en",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 20:52:09 +0000"
+        },
+        {
+            "id": "e87cf59d-cb88-4789-b315-f2b24ba25468",
+            "title": "CVR Energy, Inc. (CVI) Q3 2024 Earnings Call Transcript",
+            "description": "CVR Energy, Inc. Q3 2024 Earnings Conference Call October 29, 2024 1:00 PM ETCompany ParticipantsRichard Roberts - Financial Planning &amp; Analysis &amp;...",
+            "url": "https://seekingalpha.com/article/4730630-cvr-energy-inc-cvi-q3-2024-earnings-call-transcript?source=feed_all_articles",
+            "author": "SA Transcripts",
+            "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "en",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 20:49:07 +0000"
+        },
+        {
+            "id": "f31cf0ae-0983-4a1d-bcb6-1ecf75d33d2f",
+            "title": "Area of interest being monitored for development should not be a threat to Florida",
+            "description": "A cold front on the horizon is expected to protect the state from any tropical activity. See the latest maps, models:",
+            "url": "https://www.wesh.com/article/tropical-disturbance-national-hurricane-center-caribbean/62746160",
+            "author": "wesh",
+            "image": "https://kubrick.htvapps.com/vidthumb/b0e6b372-d4f0-4554-a959-3dbbf5ade3a4/37e554f5-3f3b-4e9a-872f-dd9521ca6f21.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
+            "language": "en",
+            "category": [
+                "orlando",
+                "florida"
+            ],
+            "published": "2024-10-29 20:49:00 +0000"
+        },
+        {
+            "id": "0313e73a-e798-4a83-b024-056b250882b5",
+            "title": "Airbus A321XLR Marks New Era For Long-Haul Flights And A Threat To Boeing (EADSF)",
+            "description": "Airbus SE's A321XLR offers unmatched range and payload, positioning it as a game changer. Learn why EADSF stock may benefit from this innovation.",
+            "url": "https://seekingalpha.com/article/4730602-airbus-a321xlr-marks-new-era-for-long-haul-flights-and-a-threat-to-boeing?source=feed_all_articles",
+            "author": "Dhierin Bechai",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160895734/image_2160895734.jpg?io=getty-c-w1536",
+            "language": "en",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 20:47:37 +0000"
+        },
+        {
+            "id": "a704d804-57ae-4fa9-bb0d-ec9148386cb2",
+            "title": "SCD: An Excellent Choice For Investors Seeking Income Or Total Return (NYSE:SCD)",
+            "description": "LMP Capital and Income Fund is trading at a 6.11% discount to NAV, offering an attractive entry. Learn more about the potential of SCD CEF in your portfolio.",
+            "url": "https://seekingalpha.com/article/4730601-scd-excellent-choice-for-income-or-total-return?source=feed_all_articles",
+            "author": "Power Hedge",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/956210960/image_956210960.jpg?io=getty-c-w1536",
+            "language": "en",
+            "category": [
+                "business",
+                "finance"
+            ],
+            "published": "2024-10-29 20:47:25 +0000"
+        },
+        {
+            "id": "fc183bec-af7d-473a-9185-90c71674a887",
+            "title": "Man serving 30 years for attacking Nancy Pelosi's husband gets a life term on state charges",
+            "description": "The man who was sentenced to 30 years in federal prison for attacking the husband of former House Speaker Nancy Pelosi has been sentenced to life in prison without the possibility of parole following a separate state trial.",
+            "url": "https://www.wesh.com/article/man-attack-nancy-pelosi-husband-life-term-state-charges/62753238",
+            "author": "wesh",
+            "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap266630dd0b40ce.jpg?crop=1.00xw:0.986xh;0,0&resize=640:*",
+            "language": "en",
+            "category": [
+                "orlando",
+                "florida"
+            ],
+            "published": "2024-10-29 20:46:00 +0000"
+        },
+        {
+            "id": "8b8bb4cd-ccf2-4ad4-b9ee-a7e8648d9cbc",
+            "title": "Elon Musk reveals why he really wants Trump to win the White House",
+            "description": "Elon Musk has revealed why he really wants Donald Trump to win the presidential election , and it has nothing to do with border politics or tax-breaks for billionaires.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-14015641/Elon-Musk-reveals-wants-Donald-Trump-win.html?ns_mchannel=rss",
+            "author": "Ellyn Lapointe",
+            "image": "https://i.dailymail.co.uk/1s/2024/10/29/18/91424133-0-image-m-11_1730226943617.jpg",
             "language": "en",
             "category": [
                 "general"
             ],
-            "published": "2024-10-28 14:48:58 +0000"
+            "published": "2024-10-29 20:45:49 +0000"
         },
         {
-            "id": "d6abafc8-df86-4bc1-b8e5-79aa3117b926",
-            "title": "The celebrities who've won Halloween with their 2024 costumes",
-            "description": "In need of some dress-up inspo? Lizzo, Sophie Turner, Selena Gomez and co. have looked to scary movies and cultural icons past and present to inspire their fright night looks",
-            "url": "https://www.standard.co.uk/lifestyle/best-celebrity-halloween-costumes-2024-lizzo-ozempic-heidi-klum-b1190528.html",
-            "author": "Hayley Spencer",
-            "image": "https://static.standard.co.uk/2024/10/28/14/15/Lizzo-Halloween.JPG?width=1200&auto=webp&quality=75&trim=204,0,255,0",
+            "id": "30124e63-c65a-4904-b684-b037b5ada673",
+            "title": "Kadant Reports Third Quarter 2024 Results",
+            "description": "WESTFORD, Mass., Oct.  29, 2024  (GLOBE NEWSWIRE) -- Kadant Inc. (NYSE: KAI) reported its financial results for the third quarter ended September 28, 2024....",
+            "url": "https://www.globenewswire.com/news-release/2024/10/29/2971271/0/en/Kadant-Reports-Third-Quarter-2024-Results.html",
+            "author": "Kadant Inc",
+            "image": "https://ml.globenewswire.com/Resource/Download/0ae0f3b1-6350-4b75-a338-ef3bc512c976",
+            "language": "en",
+            "category": [
+                "company"
+            ],
+            "published": "2024-10-29 20:43:00 +0000"
+        },
+        {
+            "id": "e562840c-d904-433d-91d7-6bfff1448f57",
+            "title": "Plant-based milks facility did not follow listeria prevention protocol: CFIA",
+            "description": "The Canadian Food Inspection Agency says an Ontario facility producing plant-based milks was not adhering to Health Canada's policies on listeria prevention prior to an outbreak that led to three deaths.",
+            "url": "https://www.ctvnews.ca/health/plant-based-milks-facility-did-not-follow-listeria-prevention-protocol-cfia-1.7091175",
+            "author": "The Canadian Press",
+            "image": "None",
+            "language": "en",
+            "category": [
+                "health",
+                "lifestyle"
+            ],
+            "published": "2024-10-29 20:40:54 +0000"
+        },
+        {
+            "id": "545b5198-d996-46c2-a867-f130dd1aa85d",
+            "title": "Paul Pelosi attacker blurts out conspiracy theories as he's sentenced",
+            "description": "A Canadian man who broke into former House Speaker Nancy Pelosi's home and bludgeoned her husband with a hammer continued to spew conspiracy theories as he was sentenced for a second time.\n\nDavid DePa...",
+            "url": "https://www.dailymail.co.uk/news/article-14016713/david-depape-sentenced-nancy-pelosi-husband-paul-attack.html?ns_mchannel=rss",
+            "author": "Rachel Bowman",
+            "image": "https://i.dailymail.co.uk/1s/2024/10/29/19/91431389-0-image-a-8_1730230795124.jpg",
             "language": "en",
             "category": [
                 "general"
             ],
-            "published": "2024-10-28 14:47:02 +0000"
+            "published": "2024-10-29 20:39:52 +0000"
         },
         {
-            "id": "dc455bef-a08f-47df-b599-c494b82d4468",
-            "title": "Below Deck's Captain Sandy addresses rift with Captain Lee: 'I'm sorry'",
-            "description": "EXCLUSIVE: Captain Sandy expressed her wish to repair their friendship following his public criticism",
-            "url": "https://www.standard.co.uk/showbiz/below-deck-captain-sandy-addresses-captain-lee-rift-b1190564.html",
-            "author": "Lisa McLoughlin ",
-            "image": "https://static.standard.co.uk/2024/10/28/13/07/GettyImages-2181220159.jpg?width=1200&auto=webp&quality=75&trim=269,0,1530,0",
+            "id": "0c71acb3-875d-4440-80d7-a248fff91200",
+            "title": "Australia news live: driver released after fatal primary school crash; inflation figures may give hope for interest rates relief",
+            "description": "Follow live",
+            "url": "https://www.theguardian.com/australia-news/live/2024/oct/30/australia-news-live-inflation-figures-plan-for-national-disease-control-centre-anthony-albanese-peter-dutton-wednesday-ntwnfb",
+            "author": "Rafqa Touma",
+            "image": "https://i.guim.co.uk/img/media/99d9a5d2126e9c741e845d7b5dfce3e3733c376e/0_159_4779_2867/master/4779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&s=b5f5ae4e0d216b7257884623a4c7ac00",
+            "language": "en",
+            "category": [
+                "national"
+            ],
+            "published": "2024-10-29 20:39:35 +0000"
+        },
+        {
+            "id": "1a285114-82f2-4d3e-8107-960a6f67068e",
+            "title": "Five people die, over 30 receive wounds after Israel\u2019s airstrike on Sidon \u2014 portal",
+            "description": "BEIRUT, October 29. /TASS/. Five people died and 33 others were wounded after Israeli airstrikes on a residential house in a densely-populated neighborhood in the city of Sidon in southern Lebanon, th...",
+            "url": "https://tass.com/world/1864355",
+            "author": "TASS",
+            "image": "https://tass.com/img/blocks/common/tass_logo_share_ru.png",
+            "language": "en",
+            "category": [
+                "general",
+                "world"
+            ],
+            "published": "2024-10-29 20:38:11 +0000"
+        },
+        {
+            "id": "1d815f3f-ee99-4b51-961a-a1edf76663c3",
+            "title": "Google parent Alphabet sees double-digit growth as AI bets pay off",
+            "description": "Analysts expected 12% year-on-year revenue gains, but company reports 15%, buoyed by performance in ads and cloud services",
+            "url": "https://www.theguardian.com/technology/2024/oct/29/alphabet-google-earnings-report",
+            "author": "Blake Montgomery",
+            "image": "https://i.guim.co.uk/img/media/a1b4a40e25e43354547d43aae9fa7d1c51504210/0_132_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=e5b47283b2c2a893f4145c1ab9c5f704",
+            "language": "en",
+            "category": [
+                "technology"
+            ],
+            "published": "2024-10-29 20:37:08 +0000"
+        },
+        {
+            "id": "523c2286-126b-4225-b4e9-346ba2085194",
+            "title": "SWAT standoff, shots fired in Atlanta with armed person barricaded inside Midtown hotel: police",
+            "description": "The Atlanta Police Department and SWAT teams responded to a Georgia luxury hotel in downtown Atlanta on Tuesday afternoon, after an armed suspect barricaded themselves inside the hotel.\n\nIn a statemen...",
+            "url": "https://www.foxnews.com/us/swat-standoff-shots-fired-atlanta-armed-person-barricaded-midtown-hotel-police",
+            "author": "Sarah Rumpf-Whitten",
+            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/15be48ae-thumb.jpg",
             "language": "en",
             "category": [
                 "general"
             ],
-            "published": "2024-10-28 14:46:28 +0000"
-        },
-        {
-            "id": "fa83ae84-1869-4670-b2ba-cb03d025ff63",
-            "title": "Mike Amesbury should know you don't hit a man when he's down",
-            "description": "This is the most shocking element of the footage of the Cheshire MP on Friday night",
-            "url": "https://www.standard.co.uk/comment/mike-amesbury-mp-labour-party-cctv-punching-man-fight-b1190559.html",
-            "author": "Melanie McDonagh",
-            "image": "https://static.standard.co.uk/2024/10/27/17/17/Ga6LiQuXAAAuqNu.jfif?width=1200&auto=webp&quality=75&trim=0,38,0,37",
-            "language": "en",
-            "category": [
-                "general"
-            ],
-            "published": "2024-10-28 14:44:28 +0000"
-        },
-        {
-            "id": "0497f657-ab21-458d-9b3c-a68b263b4d1e",
-            "title": "Selangor KPDN, State Gov't To Introduce Discount Card For Menu Rahmah Traders",
-            "description": "GENERAL\n\nKLANG, Oct 28 (Bernama) -- The Selangor branch of the Ministry of Domestic Trade and Cost of Living (KPDN) is collaborating with the state government to finalise a discount card system that w...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357367",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/2557060ff9322b8822afc43785ac0fc8671f87e77dee3-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "526da95d-d6bf-49d7-aeb1-88ffced08f43",
-            "title": "Recycling Plant In Kelantan That Caught Fire Records Api Reading Of 46 - DOE",
-            "description": "GENERAL\n\nKOTA BHARU, Oct 28 (Bernama) -- The Air Pollution Index (API) at the recycling collection site on Jalan Padang Tembak, Pengkalan Chepa Industrial Area, which caught fire yesterday, recorded a...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357368",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/67ae671e4972a4217612a9178edc09b4671f88ce46347-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "969f92a7-5beb-40ee-9a50-cb5fd5a68252",
-            "title": "Aaron Chia Receives RM50k From Melaka For Olympic Bronze",
-            "description": "SPORTS\n\nMELAKA, Oct 28 (Bernama) -- National doubles badminton player Aaron Chia received an RM50,000 special incentive from the Melaka government for his success in winning the bronze medal at the Pa...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357378",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/4d7cf8c0feed896a90b976516dfba537671f9a2d80701-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "399cd909-8282-4ba9-8cc8-25ea0aefed20",
-            "title": "Thailand To Launch Biometric System At Six Airports By December 2024",
-            "description": "WORLD\n\nBy Kenny Teng Khoon Hock BANGKOK, Oct 28 (Bernama) -- Thailand is set to implement a biometric identification system at its six international airports starting Dec 1 this year to enhance passen...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357382",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/45b18352c245b6642c6e191f744ef57a671f940c6886a-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "11fec8aa-8dc0-4d62-9e27-fac71b6c23f6",
-            "title": "'Kolam' Rice Sales Surge Ahead Of Deepavali",
-            "description": "GENERAL\n\nIPOH, Oct 28 (Bernama) -- With the Deepavali celebration approaching this Thursday, traders supplying essentials for the festival of lights are busy meeting customer demands. Among the most p...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357384",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/99a79a1167f3bc467a979c0ae4398e87671f8fe5b8d62-medium",
-            "language": "es",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "02d1302d-048a-435b-a70d-081f6a1b2221",
-            "title": "Ten Hag Sacked As Manchester United Manager",
-            "description": "WORLD\n\nLONDON, Oct. 28 (Bernama-PA Media/dpa) -- Manchester United have sacked manager Erik ten Hag after the club\u2019s disappointing start to the season, reported German Press Agency (dpa). United slipp...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357386",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/0ae863cfd47a27e3bd88f2cc4c8a92b6671f930b7801f-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "251717a2-f745-48e5-b84d-66633822e90f",
-            "title": "Members Of Parliament Raise Food Security Issues During Debate",
-            "description": "GENERAL\n\nKUALA LUMPUR, Oct 28 (Bernama) -- Food security issues including proposals to increase the stockpile of basic foods, the national rice sufficiency rate (SSR) and the floor price of rice purch...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357387",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/3b4c95a39aa47f0a4f7e4a8668bfb74c671f92f98e4f9-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "b6f0bed9-bf42-4090-9dd4-77dab115629b",
-            "title": "Kim Swee Wants Players To Focus On Securing Third Consecutive Super League Win",
-            "description": "KOTA KINABALU, Oct 28 (Bernama) -- Sabah FC head coach Datuk Ong Kim Swee has reminded his players to maintain their full focus on efforts to secure their third consecutive Super League win when they ...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357392",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/06416defee9271e7f7dba2f10c35fac0671f9a1879cac-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "677a59ac-a525-4a59-a6c4-35c3e5fd4dc3",
-            "title": "MPI Empowers Media Practitioners' Knowledge In AI To Improve Reporting - MPI President",
-            "description": "GENERAL\n\nKUALA LUMPUR, Oct 28 (Bernama) -- The Malaysian Press Institute (MPI) is organising various programmes to enhance the knowledge of local media practitioners, including the use of artificial i...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357394",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/c2e0cbe1b75ea1fac0d028a208b28568671f9ef6d49d1-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
-        },
-        {
-            "id": "de5481ad-2b81-4417-8cf0-579bf077e5e6",
-            "title": "Arab League Sec-gen: Global Inaction Allows Israel To Widen Its Regional War",
-            "description": "CAIRO, Oct 28 (Bernama-SPA) -- Arab League Secretary General Ahmed Aboul Gheit expressed grave concern over Israel's actions against Gaza residents, accusing the international community of failing to ...",
-            "url": "https://www.bernama.com/en/news.php/?id=2357399",
-            "author": "BERNAMA",
-            "image": "https://www.bernama.com/storage/photos/84121342b68fde681155a599e01d8980671fa19054c84-medium",
-            "language": "en",
-            "category": [
-                "regional"
-            ],
-            "published": "2024-10-28 14:43:35 +0000"
+            "published": "2024-10-29 20:37:02 +0000"
         }
     ],
     "page": 1

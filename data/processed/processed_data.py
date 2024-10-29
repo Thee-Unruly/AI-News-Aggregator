@@ -1,8 +1,6 @@
 import json
 import os
 import sys
-import requests
-import time
 import re
 
 # Add the root directory to the Python path
@@ -36,13 +34,9 @@ def process_news_data(raw_data, source):
     for article in articles:
         if isinstance(article, dict):  # Ensure the article is a dictionary
             content = article.get('content') or article.get('body')  # Handle different field names
-            if content:
-                truncated_info = extract_truncated_info(content)
-                # Replace truncated info with the actual content for clarity
-                if truncated_info:
-                    content = content.split('…')[0] + truncated_info  # Keep content up to ellipsis and add truncated info
-                else:
-                    content = content.split('…')[0]  # If no truncation info, just keep the content up to ellipsis
+            
+            # No truncation; use full content directly
+            content = content.strip() if content else ""
 
             processed_data.append({
                 'title': article.get('title'),
@@ -50,17 +44,12 @@ def process_news_data(raw_data, source):
                 'publishedAt': article.get('publishedAt') or article.get('published'),  # Handle different field names
                 'source': article.get('source', {}).get('name', 'Unknown'),  # Adjust as necessary
                 'url': article.get('url'),
-                'content': content.strip() if content else "",  # Strip whitespace
+                'content': content,  # Full content without truncation
             })
         else:
             print("Unexpected article format:", article)  # Print unexpected format
 
     return processed_data
-
-def extract_truncated_info(content):
-    """Extract truncated characters information from the content."""
-    match = re.search(r'\[\+(\d+)\s*chars\]', content)
-    return f" [+{match.group(1)} chars]" if match else ""
 
 def save_processed_data(filename, data):
     """Save processed data to a JSON file."""
@@ -71,20 +60,6 @@ def save_processed_data(filename, data):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=4)
 
-def fetch_news_from_api(api_function):
-    """Wrapper to fetch news data and handle errors."""
-    try:
-        print(f"Fetching news from {api_function.__name__.replace('_', ' ').title()}...")
-        raw_data = api_function()
-        if raw_data:
-            return raw_data
-        else:
-            print(f"No data returned from {api_function.__name__.replace('_', ' ').title()}.")
-            return {}
-    except Exception as e:
-        print(f"Error fetching news from {api_function.__name__.replace('_', ' ').title()}: {e}")
-        return {}
-
 def main():
     sources = {
         'news_api': 'data/raw/news_api_raw.json',
@@ -93,8 +68,6 @@ def main():
         'cnn': 'data/raw/cnn_raw.json'
     }
     
-    # Commenting out the real-time loop for now
-    # while True:  # Run in real-time
     processed_all_data = []
     
     for source, filepath in sources.items():
@@ -106,9 +79,6 @@ def main():
     # Save all processed data
     save_processed_data('data/processed/processed_news_data.json', processed_all_data)
     print("All news data processed and stored successfully.")
-
-    # Uncomment to re-enable real-time fetching
-    # time.sleep(600)  # Wait for 10 minutes before fetching data again
 
 if __name__ == "__main__":
     main()
