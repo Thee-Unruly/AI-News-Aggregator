@@ -2,3 +2,6 @@
 /.venv
 /fine-tuned-model
 /results
+/tts_model.pth.tar
+/vocoder_model.pth.tar
+/TTS
